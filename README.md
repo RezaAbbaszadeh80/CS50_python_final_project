@@ -34,7 +34,7 @@ Next, follow these steps:
 
 Clone or download this repository.
 
-Open a terminal or command prompt and navigate to the project directory : https://github.com/RezaAbbaszadeh80/CS50_final_project
+Open a terminal or command prompt and navigate to the project directory : https://github.com/RezaAbbaszadeh80/ CS50_python_final_project
 
 Install the required dependencies using the following command:
 
